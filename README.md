@@ -1,5 +1,17 @@
-You look great in Suspenders
-============================
+OneThing
+========
+
+A todo-list manager.
+
+You add things to a list, say "Adaggio's" to "Restaunts to try"
+
+You now only see the next thing on the list. You can't skip it.
+
+Decisions are now easy.
+
+
+Style guide and protocols
+=========================
 
 Use the following guides for getting things done, programming well, and
 programming in style.
